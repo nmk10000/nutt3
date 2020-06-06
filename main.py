@@ -1,5 +1,8 @@
 from telebot import types
 
+TOKEN = '1296488130:AAH_Qi3WpsvlHy8Q9A-CEqib1TLjSxIw0kI'
+tb = telebot.TeleBot(TOKEN)
+
 # Using the ReplyKeyboardMarkup class
 # It's constructor can take the following optional arguments:
 # - resize_keyboard: True/False (default False)
