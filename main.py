@@ -1,3 +1,4 @@
+import telebot
 from telebot import types
 
 TOKEN = '1296488130:AAH_Qi3WpsvlHy8Q9A-CEqib1TLjSxIw0kI'
